@@ -2,7 +2,7 @@
 
 Le titre de notre projet est : Time Wipeout
 
-Ce projet a été crée pour la Jam epitech du 13/02 au 14/02 inclut, sur le thème : "past, present, futur". 
+Ce projet a été crée pour la Jam epitech du 13/02 au 14/02 inclut, sur le thème : "past, present, future". 
 C'est un jeu crée sur le logiciel CORE qui est un editeur de jeu en developpement.
 Le principe du jeu est une course où les joueurs, sur des overboard, traverseront différents époques. Le jeu est jouable jusqu'à 5 joueurs. 
 La carte du jeu est composée de 3 zones : une médiéval représentant le passé, une ville représentant le présent et une spatial représentant le futur. 
